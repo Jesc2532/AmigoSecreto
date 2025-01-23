@@ -55,12 +55,12 @@ function sortearAmigo() {
 ```
 
 Cómo Usar
-Clona el repositorio.
-Abre index.html en tu navegador.
-Agrega nombres de amigos en el campo de texto y haz clic en "Añadir".
-Una vez que hayas agregado todos los nombres, haz clic en "Sortear amigo" para seleccionar un amigo secreto al azar.
+- Clona el repositorio.
+- Abre index.html en tu navegador.
+- Agrega nombres de amigos en el campo de texto y haz clic en "Añadir".
+- Una vez que hayas agregado todos los nombres, haz clic en "Sortear amigo" para seleccionar un amigo secreto al azar.
 
 
-Créditos:
-Autor: [Victor Escobar]
-Email: [vjve15@gmail.com]
+- Créditos:
+- Autor: [Victor Escobar]
+- Email: [vjve15@gmail.com]
