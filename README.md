@@ -25,9 +25,11 @@ function agregarAmigo() {
     limpiarCampo();
 }
 
+```
 Mostrar Amigos
 Muestra los nombres de los amigos agregados en una lista.
 
+```
 function mostrarAmigos() {
     let texto = "";
     listaAmigos.forEach(amigo => {
@@ -36,9 +38,11 @@ function mostrarAmigos() {
     return texto;
 }
 
+```
 Sortear Amigo
 Sortea un amigo secreto al azar de la lista de amigos.
 
+```
 function sortearAmigo() {
     if (listaAmigos.length == 0) {
         asignarTextoAElemento('#resultado', 'No hay amigos para sortear');
@@ -48,6 +52,7 @@ function sortearAmigo() {
         asignarTextoAElemento('#resultado', 'Tu amigo secreto es ' + amigoSorteado);
     }
 }
+```
 
 Cómo Usar
 Clona el repositorio.
@@ -59,6 +64,3 @@ Una vez que hayas agregado todos los nombres, haz clic en "Sortear amigo" para s
 Créditos:
 Autor: [Victor Escobar]
 Email: [vjve15@gmail.com]
-
-Licencia:
-Este proyecto está bajo la Licencia MIT.
